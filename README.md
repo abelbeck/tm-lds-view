@@ -13,7 +13,7 @@ Tested on macOS 10.14, Debian/Ubuntu, AstLinux
 
 -----------
 
-Start by dowloading the `tm-lds-view.sh` script:
+Start by downloading the `tm-lds-view.sh` script:
 ```
 curl -O https://raw.githubusercontent.com/abelbeck/tm-lds-view/master/tm-lds-view.sh
 ```
